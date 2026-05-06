@@ -208,10 +208,10 @@ This project is licensed under the MIT License.
 
 Author
 
-**Your Name**
+**Ayub Kinyua**
 
-* GitHub: https://github.com/your-username
-* Email: your-email@example.com
+* GitHub: [https://github.com/ayub2022](https://github.com/ayub2022)
+* Email: ayubmaina2017@gmail.com
 
 Vision
 
